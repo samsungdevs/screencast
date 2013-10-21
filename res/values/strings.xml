@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenCast</string>
+    
+    <string name="start_screen_cast">Start Screen Cast</string>
+    <string name="stop_screen_cast">Stop Screen Cast</string>
+    <string name="twin_mode">Twin Mode</string>
+    <string name="dual_mode">Dual Mode</string>
+</resources>
